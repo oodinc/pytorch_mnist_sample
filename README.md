@@ -1,9 +1,9 @@
 ## Ringkasan
 
 **Tujuan dari tugas ini adalah:**
-● Students have GitHub accounts and repositories.
-● Understand git workflow, branching strategy, and pull requests.
-● Students could make code collaboration.
+- Students have GitHub accounts and repositories.
+- Understand git workflow, branching strategy, and pull requests.
+- Students could make code collaboration.
 
 ## Getting started
 
