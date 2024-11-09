@@ -1,4 +1,4 @@
-# Ringkasan
+# pytorch_mnist_sample
 
 **Tujuan dari tugas ini adalah:**
 - Students have GitHub accounts and repositories.
