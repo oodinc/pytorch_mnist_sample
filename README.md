@@ -36,30 +36,30 @@ cd pytorch_mnist_sample
 To achieve accuracy above 90%, modify the hyperparameters `learning_rate` and `momentum` in `pytorch-mnist.ipynb` as follows:
 
 - **Default Value**:
-```python
-learning_rate = 0.1
-momentum = 0.00003
+  ```python
+  learning_rate = 0.1
+  momentum = 0.00003
 
 - **Modified Value**:
-```python
-learning_rate = 0.001
-momentum = 0.99
+  ```python
+  learning_rate = 0.001
+  momentum = 0.99
 
 ### Create a New Branch and Commit Changes
 
 1. **Create a New Branch**:
-```bash
-git checkout -b parameter-testing
-```
+  ```bash
+  git checkout -b parameter-testing
+  ```
 2. **Add and Commit Changes**:
-```bash
-git add pytorch-mnist.ipynb
-git commit -m "Update learning rate and momentum for optimizer"
-```
+  ```bash
+  git add pytorch-mnist.ipynb
+  git commit -m "Update learning rate and momentum for optimizer"
+  ```
 3. **Push Changes**:
-```bash
-git push origin parameter-testing
-```
+  ```bash
+  git push origin parameter-testing
+  ```
 
 ### Creating a Pull Request
 
