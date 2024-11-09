@@ -1,4 +1,4 @@
-## Ringkasan
+# Ringkasan
 
 **Tujuan dari tugas ini adalah:**
 - Students have GitHub accounts and repositories.
